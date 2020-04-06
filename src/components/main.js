@@ -4,13 +4,6 @@ export default function Main() {
   return (
     <main>
         <section>
-            <h2>About Sally Student</h2>
-            <p lang="fr">Lorem ipsum dolor sit amet, consectetur adipisicing elit!</p>
-            <p lang="fr">Lorem ipsum dolor sit amet, consectetur adipisicing elit!</p>
-            <p lang="fr">Lorem ipsum dolor sit amet, consectetur adipisicing elit!</p>
-        </section>
-
-        <section>
             <h3>Sally's education:</h3>
             <ul>
                 <li>Comic College</li>
@@ -23,7 +16,7 @@ export default function Main() {
             <h3>Sally's employment history:</h3> 
             <ul><li>Scribbs</li></ul>
 
-            <p>Job Title: Software Developer<br/> 
+            <p><strong>Job Title: Software Developer</strong><br/> 
               Date of Employement: 2/17/2013-8/15/2017<br/> 
             Job Description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae veritatis sed laborum, accusantium ut dolore asperiores ea enim, hic fuga corporis? Id cupiditate, voluptatibus veniam doloribus consectetur quia! Quae, eveniet?
             </p>
